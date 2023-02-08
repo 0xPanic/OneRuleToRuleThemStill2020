@@ -1,3 +1,7 @@
+# OneRuleStill2020  
+
+This fork adds around 200 rules that involve postpending the years 2020-2029 and like a symbol or something
+
 # OneRuleToRuleThemStill
 
 An revamped and optimised version of [OneRuleToRuleThemAll](https://github.com/stealthsploit/Optimised-hashcat-Rule).
